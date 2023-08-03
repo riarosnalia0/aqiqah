@@ -152,3 +152,41 @@ p {
     bottom: 110px;
     }
 }
+
+.cover {
+    background-color: white;
+}
+
+.btn-primary {
+    background-color: #d65b77 !important;
+    border-color: #d65b77 !important;
+}
+
+.btn {
+    background-color: #d65b77 !important;
+    color: #fff1e6 !important;
+    font-weight: bold !important;
+}
+
+.btn:hover {
+    background-color: #aa485f !important;
+}
+
+.card-body-g {
+    background-color: #d65b77;
+}
+
+.card-text-g {
+    color: #fff1e6;
+}
+
+.btn-copy {
+    font-size: 10px !important;
+    background-color: #fff1e6 !important;
+    color: #d65b77 !important;
+    border: 0 !important;
+}
+
+.btn-copy:hover {
+    background-color: #fdd9bc !important;
+}
