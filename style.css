@@ -190,3 +190,40 @@ p {
 .btn-copy:hover {
     background-color: #fdd9bc !important;
 }
+
+.white-pink {
+    color: #fff1e6;
+}
+
+.card-profile {
+    background-color: #fff1e6;
+}
+
+.card-title-u {
+    margin-top: 15px;
+}
+
+.card-text-u {
+    margin-top: 25px;
+}
+
+ul {
+    color: #817d7d;
+}
+
+.text-u {
+    font-size: 13px;
+}
+
+.clock {
+    font-weight: bold;
+    color: #414040;
+}
+
+strong {
+    color: #d65b77;
+}
+
+.bg-pict {
+    background-color: #fff1e6;
+}
